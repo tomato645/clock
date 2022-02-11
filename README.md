@@ -1,14 +1,14 @@
 # Clock for JS
-It's a sample I made to practice.
+It's a sample I made to practice.<br/>
 It made by Javascript.
 
 # DEMO
 <img src="clock-discribe.png" alt="デモ画像" title="サンプル" width=30% height=30%>
 
 # Features
-It can change...
--Fonts
--Color
+It can change...<br/>
+-Fonts <br/>
+-Color <br/>
 (if you have idea of Features, plese post issue!)
 
 # Author
