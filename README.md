@@ -5,7 +5,7 @@ It made by Javascript.
 <a href = "http://emc2games.starfree.jp/tool/clock/">Clock is here! click!</a>
 
 # DEMO
-<img src="clock-discribe.png" alt="デモ画像" title="サンプル" width=30% height=30%>
+<img src="clock-discribe.png" alt="時計のサンプル画像" title="サンプル" width=30% height=30%>
 
 # Features
 You can CHANGE something!!! <br/>
