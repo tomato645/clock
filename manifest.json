@@ -1,0 +1,15 @@
+{
+    "name": "TestClock",
+    "short_name": "TC",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "browser",
+    "start_url": "https://tomato645.github.io",
+    "icons": [
+        {
+          "src": "img/192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+    ]
+  }
